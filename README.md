@@ -1,48 +1,45 @@
-# `🧿 𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝 🔮`
+# `🧿 بوت القياده الخال شخصياً 🦅🇾🇪🔮`
 
-### `—◉ 🔗 CUENTAS OFICIALES 🔗`
+### `—◉ 🔗 لمشاهدة الشروحات يوتيوب عبر قناتي 🔗`
+* https://youtube.com/channel/UCToOQLOgWylIjKuBy96zUuQ
 
-* https://www.atom.bio/theshadowbrokers-team
-
-### `—◉ 💟 GRUPO DE SOPORTE 💟`
-
+### `—◉ 💟 قناتي تليجرام فيها اهم الشروحات 💟`
 <a href="https://t.me/Driving_uncle_personally" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_SOPORTE_(𝙴𝚂)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="https://t.me/Driving_uncle_personally" target="blank"><img src="https://img.shields.io/badge/SUPPORT_GROUP_(EN)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
-> LOS NUMEROS NO SON BOTS Y EN EL GRUPO NO SE PERMITEN NUMEROS QUE SEAN BOTS
-🧿 𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝 🔮
-### `—◉ 🤖 BOTS OFICIALES 🤖`
+> قناة القياده الخال شخصياً القناه تليجرام فيها اهم الشروحات المفيده حول تعلم الهكر 
+🧿 ذا بوت واتساب 🔮
+### `—◉ 🤖 بوت واتساب القياده الخال 🤖`
 
-<a href="https://api.whatsapp.com/send/?phone=5219991402134&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://t.me/Termux7" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
- > NO SPAMEAR COMANDOS
+ > قناة تليجرام مختص بنشر ادوات تريمكس 🦅🇾🇪
 
-### `—◉ 💰 DONAR 💰`
-- AGRADECE CON UNA DONACION VOLUNTARIA [Aqui](https://www.paypal.me/TheShadowBrokers133)
+### `—◉ 💰 طرق الدفع 💰`
+- للدفع يمكنك التواصل معي تليجرام  [تواصل تليجرام](https://t.me/TheYemenigentle)
 
-### `—◉ 🖍 LETRA DEL BOT 🖍`
-- PAGINA USADA PARA LA LETRA [Aqui](https://smiley.cool/es/weirdmaker.php)
+### `—◉ 🖍 قناتي يوتيوب المختص بنشر البرمجه والشروحات 🖍`
+- اهم الشروحات بقناتي يوتيوب اضغط شروحات يوتيوب وتابع [شروحات يوتيوب](https://youtube.com/channel/UCToOQLOgWylIjKuBy96zUuQ)
 
-### `—◉ 💡 EXPERIMENTA CON UNA IA PARA NUEVOS COMANDOS 💡`
-- PAGINA [Aqui](https://beta.openai.com/playground)
+### `—◉ 💡 ان لم تفهم شي يمكنك متابعة قناتي تليجرام💡`
+- شروحات تليجرام قناتي تليجرام](https://t.me/Driving_uncle_personally)
 
-### `—◉ 💕 PLUGINS 💕`
-- TIENES IDEAS DE PLUGINS O QUIERES OBTENER MAS PLUGINS? DA CLICK EN [https://github.com/theh2so4/Mystic-Plugins](https://github.com/theh2so4/Mystic-Plugins)
+### `—◉ 💕 مطور من قبل القياده الخال🦅🇾🇪 💕`
+- مطور البوت واتساب القياده الخال شخصياً يمكنك متابعتي تليجرام [https://t.me/Driving_uncle_personally](https://t.me/Driving_uncle_personally)
   
-### `—◉ 💥 ACTIVAR EN KOYEB 💥`
-
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/BrunoSobrino/TheMystic-Bot-MD&branch=master&name=mysticbot)
+### `—◉ 💥 يمكنك الاطلاع على المزيد من الاشياء الخاصه بي 💥`
+[![اضغط هنا لرؤية اشيائي](https://atom.bio/aliahmad123)](https://atom.bio/aliahmad123t)
   
-### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
+### `—◉ 🌌 يمكنك فتح الملفات الخاصه بي عبر تطبيق روبيلات 🌌`
 
 [![Run on Repl.it](https://repl.it/badge/github/BrunoSobrino/TheMystic-Bot-MD)](https://repl.it/github/BrunoSobrino/TheMystic-Bot-MD)  
 
-### `—◉ ⚙️ AJUSTES ⚙️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/BrunoSobrino/TheMystic-Bot-MD/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/BrunoSobrino/TheMystic-Bot-MD/blob/master/config.js)
+### `—◉ ⚙️ اعدادات + اوامر البوت واتساب ⚙️`
+- اضغط ياحب الخال لعرض ملفك الشخصي [اضغط لعرض ملفك](https://github.com/BrunoSobrino/TheMystic-Bot-MD/fork)
+- اضغط هنا لعرض اعدادات او اوامر بوتك ياحب الخال [اضغط للعرض](https://github.com/BrunoSobrino/TheMystic-Bot-MD/blob/master/config.js)
 
-### `—◉ 👾 ACTIVAR EN TERMUX 👾` 
-- ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+### `—◉ 👾 اوامر تشغيل البوت عبر تريمكس 👾` 
+- يمكنك استخدام الاوامر عبر تريمكس لتشغيل البوت الخاص بك:
 ```bash
 cd && termux-setup-storage
 ```
@@ -79,40 +76,40 @@ npm install
 npm start
 ```
 
-### `—◉ ✔️ ACTIVAR EN CASO DE DETENERSE EN TERMUX ✔️`
+### `—◉ ✔️ اسمع ياحب الخال البوت الخاص بك نشط اذا وقف روح تريمكس اكتب👇🏼 ✔️`
 ```bash
-ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+يمكنك كتابة هاذي الاوامر ياحب الخال:
 > cd 
 > cd Mystic-termux
 > npm start
 ```
 
-### `—◉ 👽 OBTENER OTRO CODIGO QR EN TERMUX 👽`
-- DETENER EL BOT DANDO CLICK EN EL SIMBOLO CTROL EN TERMUX MAS LA LETRA Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A Mystic-termux $  
+### `—◉ 👽 احصل على رمز QR آخر في TERMUX ياحب 👽`
+- قم بإيقاف الروبوت عن طريق النقر على رمز CTROL في TERMUX PLUS الحرف Z على لوحة مفاتيح هاتفك المحمول حتى تحصل على شيء باللون الأخضر على غرار Mystic-termux 👇🏼
 ```bash
-ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+اكتب الاوامر هاذي في تطبيق تريمكس:
 > cd 
 > cd Mystic-termux
 > rm -rf MysticSession
 > npm start
 ```
 
-### `—◉ 🔥 ACTIVAR EN BOXMINEHOST 🔥`
+### `—◉ 🔥 استعراض بسيط لبعض القنوات المفيده 🔥`
 <a href="https://boxmineworld.com"><img src="https://raw.githubusercontent.com/BrunoSobrino/TheMystic-Bot-MD/master/src/Pre%20Bot%20Publi.png" width="450" height="240" alt="JPG"/></a>
-- Pagina Oficial: [https://boxmineworld.com](https://boxmineworld.com)
-- Dashboard: [https://dash.boxmineworld.com](https://dash.boxmineworld.com)
-- Panel: [https://panel.boxmineworld.com](https://panel.boxmineworld.com)
-- Tutorial: [https://youtu.be/eC9TfKICpcY](https://youtu.be/eC9TfKICpcY)
-- Dudas UNICAMENTE SOBRE EL HOST: [https://discord.gg/84qsr4v](https://discord.gg/84qsr4v) (Preguntar por Vicemi)
+- قناة تليجرام فيها اهم الشروحات: [https://t.me/Driving_uncle_personally](https://t.me/Driving_uncle_personally)
+- قناة تليجرام فيها اهم ادوات التريمكس: [https://t.me/Termux7](https://t.me/Termux7)
+- قناة يوتيوب فيها اهم الشروحات: [https://youtube.com/@ali_7110](https://youtube.com/@ali_7110)
+- قناة يوتيوب فيها شروحات حول الهكر: [https://youtube.com/channel/UCToOQLOgWylIjKuBy96zUuQ](https://youtube.com/channel/UCToOQLOgWylIjKuBy96zUuQ)
+- يمكنك الاطلاع على الاشياء المتعلقه بي من هنا: [https://atom.bio/aliahmad123](https://atom.bio/aliahmad123) (مطور البوت القياده الخال🦅🇾🇪)
 
-### `—◉ 📝 NOTAS 📝`
-- ES POSIBLE QUE EL BOT TENGA ALGUNAS FALLAS, SE IRAN SOLUCIONANDO CONFORME SE VAYAN DETECTANDO
-- SI VAS A EDITAR POR COMPLETO DEJA LOS CREDITOS DEL BOT 
-- EL BOT ES COMPARTIBLE CON WHATSAPP NORMAL O BUSINESS
-- ATENTO A LAS ACTUALIZACIONES QUE SE HAGAN EN ESTE REPOSITORIO
-- EL ADD Y EL KICK PUEDEN OCASIONAR QUE EL NUMERO SE VAYA A SOPORTE POR ELLO SE ACTIVA CON #enable restrict 
-- THE SHADOW BROKERS - TEAM NO SE HACE RESPONSABLE DEL USO, NUMEROS, PRIVACIDAD Y CONTENIDO MANDADO, USADO O GESTIONADO POR USTEDES O EL BOT
- 
+### `—◉ 📝 شرح بسيط يا حب الخال 📝`
+- 
+ - من المحتمل أن يكون هناك بعض الإخفاقات في الروبوت ، وسيتم حلها فور اكتشافها
+- إذا كنت تنوي التعديل تمامًا ، فاترك رصيد BOT
+- يتم مشاركة الروبوت مع WHATSAPP العادي أو الخاص بالأعمال
+- احترس من التحديثات التي تم إجراؤها في هذا المستودع
+- قد تتسبب الإضافة والركلة في إرسال الرقم إلى الدعم ، لذلك يتم تنشيطه باستخدام #enable تقييد
+- وسطاء الظل - الفريق غير مسؤول عن الاستخدام والأرقام والخصوصية والمحتوى المرسلة ، التي تستخدمها أو تديرها أنت أو الروبوت
  ### `—◉ 👑 للمزيد يمكنك زيارة قناتي تليجرام او يوتيوب 👑`
 <a href="http://t.me/Driving_uncle_personally" target="blank"><img src="https://img.shields.io/badge/BRUNO_SOBRINO_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="http://t.me/Driving_uncle_personally" target="blank"><img src="https://img.shields.io/badge/UNPTOADHIH15_COLAB.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
