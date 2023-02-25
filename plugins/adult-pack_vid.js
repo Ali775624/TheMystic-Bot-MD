@@ -4,23 +4,23 @@ if (!db.data.chats[m.chat].modohorny && m.isGroup) throw '*[❗𝐈𝐍𝐅𝐎�
 switch (command) {
 case "pack": 
 let url = await pack[Math.floor(Math.random() * pack.length)]
-conn.sendButton(m.chat, `_🥵 Pack 🥵_`, author, url, [['🔄 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴 🔄', `${usedPrefix + command}`]], m)
+conn.sendButton(m.chat, `_🥵 Pack 🥵_`, author, url, [['🔄 تغيير ياحب الخاز 🔄', `${usedPrefix + command}`]], m)
 break
 case "pack2":  
 let url2 = await packgirl[Math.floor(Math.random() * packgirl.length)]
-conn.sendButton(m.chat, `_🥵 Pack 2 🥵_`, author, url2, [['🔄 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴 🔄', `${usedPrefix + command}`]], m) 
+conn.sendButton(m.chat, `_🥵 Pack 2 🥵_`, author, url2, [['🔄 تغيير ياحب الخال 🔄', `${usedPrefix + command}`]], m) 
 break
 case "pack3":
 let url3 = await packmen[Math.floor(Math.random() * packmen.length)]
-conn.sendButton(m.chat, `_🥵 Pack 3 🥵_`, author, url3, [['🔄 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴 🔄', `${usedPrefix + command}`]], m) 
+conn.sendButton(m.chat, `_🥵 Pack 3 🥵_`, author, url3, [['🔄 تغيير 🔄', `${usedPrefix + command}`]], m) 
 break
 case "videoxxx": case "vídeoxxx":    
 let url4 = await videosxxxc[Math.floor(Math.random() * videosxxxc.length)] 
-await conn.sendButton(m.chat, `*ᴅɪsғʀᴜᴛᴀ ᴅᴇʟ ᴠɪᴅᴇᴏ 🥵*`, author, url4, [['🔄 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴 🔄', `${usedPrefix + command}`]], m)  
+await conn.sendButton(m.chat, `*ᴅɪsғʀᴜᴛᴀ ᴅᴇʟ ᴠɪᴅᴇᴏ 🥵*`, author, url4, [['🔄 تغيير يا حب 🔄', `${usedPrefix + command}`]], m)  
 break  
 case "videoxxxlesbi": case "videolesbixxx": case "pornolesbivid": case "pornolesbianavid": case "pornolesbiv": case "pornolesbianav": case "pornolesv":       
 let url5 = await videosxxxc2[Math.floor(Math.random() * videosxxxc2.length)] 
-await conn.sendButton(m.chat, `*ᴅɪsғʀᴜᴛᴀ ᴅᴇʟ ᴠɪᴅᴇᴏ 🥵*`, author, url5, [['🔄 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴 🔄', `${usedPrefix + command}`]], m)    
+await conn.sendButton(m.chat, `*ᴅɪsғʀᴜᴛᴀ ᴅᴇʟ ᴠɪᴅᴇᴏ 🥵*`, author, url5, [['🔄 تغيير يا روحي 🔄', `${usedPrefix + command}`]], m)    
 break    
 }}
 handler.command = /^(pack|pack2|pack3|videoxxx|vídeoxxx|videoxxxlesbi|videolesbixxx|pornolesbivid|pornolesbianavid|pornolesbiv|pornolesbianav|pornolesv)$/i
