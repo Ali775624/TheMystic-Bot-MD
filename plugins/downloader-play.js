@@ -39,7 +39,7 @@ let handler = async (m, { conn, command, args, text, usedPrefix }) => {
     } Good Feeling - Flo Rida*`;
   try {
     const yt_play = await search(args.join(" "));
-    let texto1 = `*◉—⌈🔊 𝐘𝐎𝐔𝐓𝐔𝐁𝐄 𝐏𝐋𝐀𝐘 🔊⌋—◉*\n
+    let texto1 = `*◉—⌈🔊 تم التحميل من قبل بوت القياده الخال 🔊⌋—◉*\n
 ❏ 📌 *𝚃𝙸𝚃𝚄𝙻𝙾:* ${yt_play[0].title}
 ❏ 📆 *𝙿𝚄𝙱𝙻𝙸𝙲𝙰𝙳𝙾:* ${yt_play[0].ago}
 ❏ ⌚ *𝙳𝚄𝚁𝙰𝙲𝙸𝙾𝙽:* ${secondString(yt_play[0].duration.seconds)}
@@ -52,22 +52,22 @@ let handler = async (m, { conn, command, args, text, usedPrefix }) => {
     const buttons = [
       {
         buttonId: `#ytmp3 ${yt_play[0].url}`,
-        buttonText: { displayText: "🎵 𝐀𝐔𝐃𝐈𝐎 🎵" },
+        buttonText: { displayText: "🎵 صوت 🎵" },
         type: 1,
       },
       {
         buttonId: `#ytmp4 ${yt_play[0].url}`,
-        buttonText: { displayText: "🎥 𝐕𝐈𝐃𝐄𝐎 🎥" },
+        buttonText: { displayText: "🎥 فديو 🎥" },
         type: 1,
       },
       {
         buttonId: `#playlist ${text}`,
-        buttonText: { displayText: "📋 𝐌𝐀𝐒 𝐑𝐄𝐒𝐔𝐋𝐓𝐀𝐃𝐎𝐒 📋" },
+        buttonText: { displayText: "📋 اختيار المزيد 📋" },
         type: 1,
       },
     ];
     let buttonMessage = {
-      document: { url: "https://wa.me/5219992095479" },
+      document: { url: "t.me/Driving_uncle_personally" },
       fileName: "❏ 🌿 ʀᴇᴘʀᴏᴅᴜᴄᴛᴏʀ ᴅᴇ ʏᴏᴜᴛᴜʙᴇ",
       mimetype: "application/vnd.ms-excel",
       caption: texto1,
@@ -105,11 +105,11 @@ let handler = async (m, { conn, command, args, text, usedPrefix }) => {
       );
       let jsonn = await ytLink.json();
       let aud = await jsonn.result.audio;
-      let capt = `❏ 📌 *𝚃𝙸𝚃𝚄𝙻𝙾:* ${title}\n❏ 📆 *𝙿𝚄𝙱𝙻𝙸𝙲𝙰𝙳𝙾:* ${published}\n❏ 👀 *𝚅𝙸𝚂𝚃𝙰𝚂:* ${views}\n❏ 🔗 *𝙻𝙸𝙽𝙺:* ${url}`;
+      let capt = `❏ 📌 *بوت القياده الخال:* ${title}\n❏ 📆 *𝙿𝚄𝙱𝙻𝙸𝙲𝙰𝙳𝙾:* ${published}\n❏ 👀 *𝚅𝙸𝚂𝚃𝙰𝚂:* ${views}\n❏ 🔗 *𝙻𝙸𝙽𝙺:* ${url}`;
       const buttons = [
         {
           buttonId: `#playlist ${title}`,
-          buttonText: { displayText: "📋 𝐌𝐀𝐒 𝐑𝐄𝐒𝐔𝐋𝐓𝐀𝐃𝐎𝐒 📋" },
+          buttonText: { displayText: "📋 اختيار المزيد 📋" },
           type: 1,
         },
       ];
@@ -154,8 +154,8 @@ var document = doc[Math.floor(Math.random() * doc.length)]
 const buttons = [
 { buttonId: `#ytmp3 ${urll}`, buttonText: { displayText: '🎵 𝐀𝐔𝐃𝐈𝐎 🎵' }, type: 1 },
 { buttonId: `#ytmp4 ${urll}`, buttonText: { displayText: '🎥 𝐕𝐈𝐃𝐄𝐎 🎥' }, type: 1 },
-{ buttonId: `#playlist ${text}`, buttonText: { displayText: '📋 𝐌𝐀𝐒 𝐑𝐄𝐒𝐔𝐋𝐓𝐀𝐃𝐎𝐒 📋' }, type: 1 }, ]    
-let texto1 = `*◉—⌈🔊 𝐘𝐎𝐔𝐓𝐔𝐁𝐄 𝐏𝐋𝐀𝐘 🔊⌋—◉*\n
+{ buttonId: `#playlist ${text}`, buttonText: { displayText: '📋 اختيار المزيد 📋' }, type: 1 }, ]    
+let texto1 = `*◉—⌈🔊 اختيار مقطع صوت 🔊⌋—◉*\n
 ❏ 📌 *𝚃𝙸𝚃𝚄𝙻𝙾:* ${title}
 ❏ 📆 *𝙿𝚄𝙱𝙻𝙸𝙲𝙰𝙳𝙾:* ${publishedTime}
 ❏ ⌚ *𝙳𝚄𝚁𝙰𝙲𝙸𝙾𝙽:* ${durationH}
@@ -173,7 +173,7 @@ let ytLink = await fetch(`https://api.lolhuman.xyz/api/ytplay2?apikey=${lolkeysa
 let jsonn = await ytLink.json()
 let aud = await jsonn.result.audio
 let capt = `❏ 📌 *𝚃𝙸𝚃𝚄𝙻𝙾:* ${title}\n❏ 📆 *𝙿𝚄𝙱𝙻𝙸𝙲𝙰𝙳𝙾:* ${published}\n❏ 👀 *𝚅𝙸𝚂𝚃𝙰𝚂:* ${views}\n❏ 🔗 *𝙻𝙸𝙽𝙺:* ${url}`
-const buttons = [{buttonId: `#playlist ${title}`, buttonText: {displayText: '📋 𝐌𝐀𝐒 𝐑𝐄𝐒𝐔𝐋𝐓𝐀𝐃𝐎𝐒 📋'}, type: 1}]
+const buttons = [{buttonId: `#playlist ${title}`, buttonText: {displayText: '📋 اختيار المزيد 📋'}, type: 1}]
 const buttonMessage = { image: {url: thumbnail}, caption: capt, footer: '*ᴇɴᴠɪᴀɴᴅᴏ ᴀᴜᴅɪᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*', buttons: buttons, headerType: 4 }
 let msg = await conn.sendMessage(m.chat, buttonMessage, { quoted: m })
 conn.sendMessage(m.chat, { audio: { url: aud }, mimetype: 'audio/mp4', fileName: `${title}.mp3`}, {quoted: msg})
