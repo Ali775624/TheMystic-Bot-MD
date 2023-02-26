@@ -32,7 +32,7 @@
   
 ### `—◉ 🌌 يمكنك فتح الملفات الخاصه بي عبر تطبيق روبيلات 🌌`
 
-[![Run on Repl.it](https://repl.it/badge/github/BrunoSobrino/TheMystic-Bot-MD)](https://repl.it/github/BrunoSobrino/TheMystic-Bot-MD)  
+[![Run on Repl.it](https://replit.com/github/Ali775624/TheMystic-Bot-MD)](https://replit.com/github/Ali775624/TheMystic-Bot-MD)  
 
 ### `—◉ ⚙️ اعدادات + اوامر البوت واتساب ⚙️`
 - اضغط ياحب الخال لعرض ملفك الشخصي [اضغط لعرض ملفك](https://github.com/BrunoSobrino/TheMystic-Bot-MD/fork)
