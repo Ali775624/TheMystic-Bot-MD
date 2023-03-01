@@ -1,23 +1,23 @@
 import { generateWAMessageFromContent } from '@adiwajshing/baileys'
 let handler  = async (m, { conn }) => {
 let texto = `
-*—◉ 𝚃𝚄𝚃𝙾𝚁𝙸𝙰𝙻 𝙱𝙾𝚇𝙼𝙸𝙽𝙴 𝙷𝙾𝚂𝚃*
-> Tutorial: https://youtu.be/eC9TfKICpcY
-> Pagina Oficial: https://boxmineworld.com
-> Dashboard: https://dash.boxmineworld.com/home
-> Panel: https://panel.boxmineworld.com
-> Soporte: https://discord.gg/84qsr4v 
+*—◉ قائمة اوامر واستخدام البوت*
+> شرح الاستخدام: https://youtu.be/ViXwP-DgWuU
+> قناة تحديثات البوت: https://t.me/Driving_uncle_personally
+> قناة تريمكس: https://t.me/Termux7
+> حسابي انستا: https://www.instagram.com/lqydhlkhlshkhsyan?r=nametag
+> معرفي تليجرام للتواصل معي: https://t.me/TheYemenigentle
 
 ------------------------------------
 
-*—◉ 𝚃𝚄𝚃𝙾𝚁𝙸𝙰𝙻 𝙰𝙲𝙸𝙳𝙸𝙲𝙽𝙾𝙳𝙴𝚂 𝙷𝙾𝚂𝚃*
-> Tutorial: https://youtu.be/nbjvreJ0tUk
-> Pagina: https://billing.acidicnodes.ml/register?ref=ADII104p
-> Soporte: https://whatsapp.acidicnodes.com
+*—◉ قوائم استخدام وتحديثات البوت*
+> شرح استخدام البوت: http://youtu.be/Ga795EofBq4
+> قناة تحديثات البوت: https://t.me/Driving_uncle_personally
+> قناة تريمكس تليجرام: https://t.me/Termux7
 
 ------------------------------------
 
-*—◉ 𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂 𝚃𝙴𝚁𝙼𝚄𝚇*
+*—◉ ☟اوامر تشغيل البوت بتريمكس☟*
 > cd && termux-setup-storage
 > apt-get update -y && apt-get upgrade -y
 > pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn 
