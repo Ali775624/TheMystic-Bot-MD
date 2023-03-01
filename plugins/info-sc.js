@@ -5,7 +5,7 @@ let texto1 = `*https://github.com/BrunoSobrino/TheMystic-Bot-MD*`
 let buttonMessage= {
 'document': { url: `https://github.com/BrunoSobrino/TheMystic-Bot-MD` },
 'mimetype': `application/${document}`,
-'fileName': `「  𝑯𝒆𝒍𝒍𝒐 𝑾𝒐𝒓𝒍𝒅 」`,
+'fileName': `「  اهلين برو مطورني الخال 」`,
 'fileLength': 99999999999999,
 'pageCount': 200,
 'contextInfo': {
@@ -15,10 +15,10 @@ let buttonMessage= {
 'mediaUrl': 'https://github.com/BrunoSobrino/TheMystic-Bot-MD',
 'mediaType': 2,
 'previewType': 'pdf',
-'title': 'ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩',
+'title': 'بوت واتساب القياده الخال⁩',
 'body': wm,
 'thumbnail': imagen1,
-'sourceUrl': 'https://www.youtube.com/channel/UCSTDMKjbm-EmEovkygX-lCA' }},
+'sourceUrl': 'https://youtube.com/channel/UCToOQLOgWylIjKuBy96zUuQ' }},
 'caption': texto1,
 'footer': wm,
 'buttons':[
